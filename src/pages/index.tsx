@@ -15,8 +15,6 @@ interface HomeProps {
 }
 
 export const Home = ({ product }: HomeProps) => {
-  // console.log(props);
-
   return (
     <>
       <Head>
